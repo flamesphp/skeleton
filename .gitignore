@@ -1,0 +1,5 @@
+syntax: glob
+vendor/
+.cache/
+.docker/.data
+.env
