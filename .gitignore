@@ -2,4 +2,5 @@ syntax: glob
 vendor/
 .cache/
 .docker/.data
+.idea/
 .env

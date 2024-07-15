@@ -1,11 +1,6 @@
 {
   "name": "flamesphp/skeleton",
   "description": "The Flames PHP Framework skeleton repository.",
-  "autoload": {
-    "psr-4": {
-      "App\\": "App/"
-    }
-  },
   "authors": [
     {
       "name": "Gabriel 'Kazz' Morgado",
