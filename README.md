@@ -10,4 +10,4 @@
 of **PHP components**.
 
 ## Skeleton 
-Check documentation on official repository of [Flames](https://opensource.org/licenses/MIT).
+Check documentation on official repository of [Flames](https://github.com/flamesphp/flames).
